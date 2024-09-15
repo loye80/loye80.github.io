@@ -10,3 +10,15 @@
  
 **Dashboard Overview:**
 ![Vrinda](Vrinda.png)
+
+# Project 2
+**Title:** Employee Records Cleansing
+ 
+**SQL Code:** [SQL queries](https://github.com/loye80/loye80.github.io/blob/main/Employee_data.sql)
+ 
+**SQL Skills Used:**
+ 
+**Project Description:**
+ 
+ 
+**Technology used:** SQL server
